@@ -51,14 +51,15 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 
 |#	|SUBJECT							|LANGUAGE			
 |:-:|:--								|:-:							
-|00	|[Shell 00](./Shell00)	|Shell					
-|01	|[Rush 00](./Rush00)		|C					
-|02	|[C 00](./C00)			|C					
-|03	|[C 01](./C01)			|C					
-|04	|[C 02](./C02)			|C			
-|05	|[C 03](./C03)			|C							
-|06	|[C 04](./C04)			|C			
-|07	|[C 06](./C05)			|C			
-|08	|[C 05](./C06)			|C			
-|09	|[C 07](./C07)			|C			
+|00	|[Shell 00](./Shell00)	        |Shell
+|01	|[Shell 01](./Shell01)	        |Shell
+|02	|[Rush 00](./Rush00)		|C					
+|03	|[C 00](./C00)			|C					
+|04	|[C 01](./C01)			|C					
+|05	|[C 02](./C02)			|C			
+|06	|[C 03](./C03)			|C							
+|07	|[C 04](./C04)			|C			
+|08	|[C 06](./C05)			|C			
+|09	|[C 05](./C06)			|C			
+|10	|[C 07](./C07)			|C			
 	
